@@ -5,7 +5,7 @@ labels: [question]
 body:
   - type: markdown
     attributes:
-      value: /
+      value: |
         ## Ask a question
         
         Remember :
