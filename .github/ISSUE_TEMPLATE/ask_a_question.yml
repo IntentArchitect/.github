@@ -6,9 +6,9 @@ body:
   - type: markdown
     attributes:
       value: /
-        /## Ask a question
+        ## Ask a question
         
-        Remember :/
+        Remember :
         * Please make your question as clear and specific as possible.
         * Please check that the [documentation](https://docs.intentarchitect.com/) does not answer your question.
   - type: textarea
