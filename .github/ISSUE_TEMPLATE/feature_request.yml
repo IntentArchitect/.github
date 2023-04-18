@@ -1,6 +1,5 @@
 name: Feature request
 description: Suggest an idea for Intent Architect
-title: "[Feature]: "
 labels: [enhancement]
 body:
   - type: textarea
