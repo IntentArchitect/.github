@@ -11,4 +11,9 @@ body:
         Remember :/
         * Please make your question as clear and specific as possible.
         * Please check that the [documentation](https://docs.intentarchitect.com/) does not answer your question.
-        
+  - type: textarea
+    id: question
+    attributes:
+      label: Ask a question
+    validations:
+      required: true
