@@ -32,7 +32,8 @@ body:
     attributes:
       label: Is this problem specific to a module?
       options:
-        - My own module- Intent.Application.AutoMapper
+        - My own module
+        - Intent.Application.AutoMapper
         - Intent.Application.DependencyInjection
         - Intent.Application.DependencyInjection.AutoMapper
         - Intent.Application.DependencyInjection.FluentValidation
@@ -83,17 +84,18 @@ body:
         - Intent.Security.JWT
         - Intent.ValueObjects
         - Intent.VisualStudio.Projects
+        - Unsure
   - type: textarea
     id: logs
     attributes:
       label: Relevant log output
       description: Please copy and paste any relevant log output. This will be automatically formatted into code, so no need for backticks.
       render: shell
-  - type: checkboxes
-    id: terms
-    attributes:
-      label: Code of Conduct
-      description: By submitting this issue, you agree to follow our [Code of Conduct](https://example.com)
-      options:
-        - label: I agree to follow this project's Code of Conduct
-          required: true
+  # - type: checkboxes
+  #   id: terms
+  #   attributes:
+  #     label: Code of Conduct
+  #     description: By submitting this issue, you agree to follow our [Code of Conduct](https://example.com)
+  #     options:
+  #       - label: I agree to follow this project's Code of Conduct
+  #         required: true

@@ -1,0 +1,14 @@
+name: Ask a question
+description: Ask a question about Intent Architect
+title: "[Question]: "
+labels: [question]
+body:
+  - type: markdown
+    attributes:
+      value: /
+        /## Ask a question
+        
+        Remember :/
+        * Please make your question as clear and specific as possible.
+        * Please check that the [documentation](https://docs.intentarchitect.com/) does not answer your question.
+        
