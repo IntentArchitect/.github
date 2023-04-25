@@ -25,8 +25,8 @@ body:
     attributes:
       label: Describe the issue
       description: Please provide as any relevant information you think would help us resolve this issue (e.g. reproduction steps, screenshots, SF output, etc.)
-      validations:
-         required: true
+    validations:
+       required: true
   # - type: checkboxes
   #   id: terms
   #   attributes:
