@@ -14,7 +14,7 @@ body:
       placeholder: Tell us what you see!
     validations:
       required: true
-  - type: textbox
+  - type: input
     id: intentArchitectVersion
     attributes:
       label: What version of Intent Architect are you using?
