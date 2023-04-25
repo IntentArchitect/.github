@@ -1,5 +1,5 @@
-name: Intent Bug Report
-description: File a bug report
+name: Log an issue
+description: Notify us of any bugs or issues found in Intent Architect or our Modules
 labels: ["bug", "triage"]
 body:
   - type: markdown
