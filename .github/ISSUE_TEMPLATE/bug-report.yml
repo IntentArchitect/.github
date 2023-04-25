@@ -23,10 +23,10 @@ body:
   - type: textarea
     id: logs
     attributes:
-      label: Describe the issue
+      label: Additional information
       description: Please provide as any relevant information you think would help us resolve this issue (e.g. reproduction steps, screenshots, SF output, etc.)
     validations:
-       required: true
+       required: false
   # - type: checkboxes
   #   id: terms
   #   attributes:
