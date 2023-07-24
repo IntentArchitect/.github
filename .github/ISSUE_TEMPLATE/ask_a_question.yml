@@ -7,7 +7,7 @@ body:
       value: |
         Remember :
         * Please make your question as clear and specific as possible.
-        * Please check that the [documentation](https://docs.intentarchitect.com/) does not answer your question.
+        * Please check that the [documentation](https://docs.intentarchitect.com/) or [answered support tickets](https://github.com/IntentArchitect/Support/issues) does not answer your question.
   - type: textarea
     id: question
     attributes:
