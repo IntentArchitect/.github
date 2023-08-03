@@ -1,4 +1,4 @@
-<img align="center" src="welcome-banner.png" width="1280px" />
+<img align="center" src="profile/welcome-banner.png" width="1280px" />
 
 # Welcome to Intent Architect!
 
