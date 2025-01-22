@@ -19,13 +19,15 @@ body:
     attributes:
       label: "How is This Issue Affecting You?"
       description: "Select the option that best describes the impact of this issue on your work."
+      multiple: false
       options:
-        - "❌ I am completely blocked and need urgent help (Critical)"
-        - "⏳ This slows me down, but I can still make progress (Major)"
-        - "✅ I have a workaround, but a fix would be ideal (Minor)"
-        - "✨ This is a suggestion or nice-to-have improvement (Enhancement)"
+        - "🚨 Select an option..."  # Placeholder
+        - "❌ I am completely blocked and need urgent help"
+        - "⏳ This slows me down, but I can still make progress"
+        - "✅ I have a workaround, but a fix would be ideal"
+        - "✨ This is a suggestion or nice-to-have improvement"
     validations:
-      required: true      
+      required: true
   - type: input
     id: intentArchitectVersion
     attributes:
