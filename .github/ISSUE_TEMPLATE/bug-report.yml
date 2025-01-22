@@ -14,6 +14,18 @@ body:
       placeholder: Tell us what you see!
     validations:
       required: true
+  - type: dropdown
+    id: issue_impact
+    attributes:
+      label: "How is This Issue Affecting You?"
+      description: "Select the option that best describes the impact of this issue on your work."
+      options:
+        - "❌ I am completely blocked and need urgent help (Critical)"
+        - "⏳ This slows me down, but I can still make progress (Major)"
+        - "✅ I have a workaround, but a fix would be ideal (Minor)"
+        - "✨ This is a suggestion or nice-to-have improvement (Enhancement)"
+    validations:
+      required: true      
   - type: input
     id: intentArchitectVersion
     attributes:
