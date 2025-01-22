@@ -22,10 +22,10 @@ body:
       multiple: false
       options:
         - "🚨 Select an option..."  # Placeholder
-        - "❌ I am completely blocked and need urgent help"
-        - "⏳ This slows me down, but I can still make progress"
-        - "✅ I have a workaround, but a fix would be ideal"
-        - "✨ This is a suggestion or nice-to-have improvement"
+        - "❌ I am completely blocked and need urgent help (Critical)"
+        - "⏳ This slows me down, but I can still make progress (Major)"
+        - "✅ I have a workaround, but a fix would be ideal (Minor)"
+        - "✨ This is a suggestion or nice-to-have improvement (Enhancement)"
     validations:
       required: true
   - type: input
