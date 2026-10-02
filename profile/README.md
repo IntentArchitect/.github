@@ -2,7 +2,9 @@
 
 # Welcome to Intent Architect!
 
-Intent Architect is the first architecture-centric code automation platform for professional developers. The repositories listed below represent all the architectural patterns across the various supported languages that the Intent Architect team has created and continues to maintain.
+Intent Architect is the first control plane for fully agentic .NET software development - the platform that turns AI into a well-governed, repeatable, and enterprise-scale software delivery system.
+
+Intent Architect gives teams reliable architectural guardrails, authoritative design blueprints, advanced validation tools, and comprehensive spec-based traceability - adding the control they need to go fully agentic quickly, safely and reliably.
 
 Head over to [our website](https://intentarchitect.com) for information.
 
